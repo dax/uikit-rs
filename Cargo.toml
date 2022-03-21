@@ -1,0 +1,9 @@
+[package]
+name = "uikit-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["David Rousselie <david@rousselie.name>"]
+
+[dependencies]
+yew = "0.19"
+regex = "1.5.5"
